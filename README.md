@@ -32,7 +32,7 @@
 
 ## Redes Sociais | Social Media
 
-[<img align="left" alt="linkedin" width="30px" src="/icon/linkedin.png">][linkedin]
+[<img align="left" alt="linkedin" width="30px" src="https://github.com/MartinsonFreitas/icon/linkedin.png">][linkedin]
 
 [<img align="left" alt="linkedin" width="30px" src="linkedin.png">][linkedin]
 
