@@ -32,7 +32,7 @@
 
 ## Redes Sociais | Social Media
 
-[<img align="left" alt="linkedin" width="30px" src="./icon/linkedin.png">][linkedin]
+[<img align="left" alt="linkedin" width="30px" src="https://elpelegrino.com.br/albergues/fotos/albergues1.jpg">][linkedin]
 
 [<img align="left" alt="linkedin" width="30px" src="/icon/linkedin.png">][linkedin]
 
