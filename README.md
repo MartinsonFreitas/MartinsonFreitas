@@ -51,6 +51,12 @@
 <!-- Sites -->
 
 [linkedin]: https://www.linkedin.com/in/martinson-freitas/
+[youtube]: https://www.linkedin.com/in/martinson-freitas/
+[flickr]: https://www.linkedin.com/in/martinson-freitas/
+[facebook]: https://www.linkedin.com/in/martinson-freitas/
+[site]: https://www.linkedin.com/in/martinson-freitas/
+[twitter]: https://www.linkedin.com/in/martinson-freitas/
+[blogger]: https://www.linkedin.com/in/martinson-freitas/
 [instagram]: https://www.instagram.com/elpelegrino/
 
 <br>
