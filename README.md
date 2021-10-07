@@ -44,19 +44,19 @@
 
 [<img align="left" alt="twitter" width="30px" src="https://elpelegrino.com.br/icons/social-midias/twitter.png">][twitter]
 
-[<img align="left" alt="blogger" width="30px" src="https://elpelegrino.com.br/icons/social-midias/blogger.png">][blogger]
+[<img align="left" alt="blogger" width="30px" src="https://elpelegrino.com.br/icons/social-midias/blogger.png">][tumblr]
 
 [<img align="left" alt="instagram" width="30px" src="https://elpelegrino.com.br/icons/social-midias/instagram.png">][instagram]
 
 <!-- Sites -->
 
 [linkedin]: https://www.linkedin.com/in/martinson-freitas/
-[youtube]: https://www.linkedin.com/in/martinson-freitas/
-[flickr]: https://www.linkedin.com/in/martinson-freitas/
-[facebook]: https://www.linkedin.com/in/martinson-freitas/
-[site]: https://www.linkedin.com/in/martinson-freitas/
-[twitter]: https://www.linkedin.com/in/martinson-freitas/
-[blogger]: https://www.linkedin.com/in/martinson-freitas/
+[youtube]: https://www.youtube.com/user/ElPelegrinoComBr/
+[flickr]: https://www.flickr.com/photos/El_Pelegrino/
+[facebook]: https://www.facebook.com/ElPelegrino.br/
+[site]: https://elpelegrino.com.br/
+[twitter]: https://twitter.com/El_Pelegrino/
+[blogger]: https://elpelegrino.tumblr.com/
 [instagram]: https://www.instagram.com/elpelegrino/
 
 <br>
