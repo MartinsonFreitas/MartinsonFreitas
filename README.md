@@ -32,11 +32,21 @@
 
 ## Redes Sociais | Social Media
 
-[<img align="left" alt="linkedin" width="30px" src="https://elpelegrino.com.br/albergues/fotos/albergues1.jpg">][linkedin]
+[<img align="left" alt="linkedin" width="30px" src="https://elpelegrino.com.br/icons/social-midias/linkedin.png">][linkedin]
 
-[<img align="left" alt="linkedin" width="30px" src="/icon/linkedin.png">][linkedin]
+[<img align="left" alt="youtube" width="30px" src="https://elpelegrino.com.br/icons/social-midias/youtube.png">][youtube]
 
-[<img align="left" alt="instagram" width="30px" src="icon/is.png">][instagram]
+[<img align="left" alt="flickr" width="30px" src="https://elpelegrino.com.br/icons/social-midias/flickr.png">][flickr]
+
+[<img align="left" alt="facebook" width="30px" src="https://elpelegrino.com.br/icons/social-midias/facebook.png">][facebook]
+
+[<img align="left" alt="site" width="30px" src="https://elpelegrino.com.br/icons/social-midias/www.png">][site]
+
+[<img align="left" alt="twitter" width="30px" src="https://elpelegrino.com.br/icons/social-midias/twitter.png">][twitter]
+
+[<img align="left" alt="blogger" width="30px" src="https://elpelegrino.com.br/icons/social-midias/blogger.png">][blogger]
+
+[<img align="left" alt="instagram" width="30px" src="https://elpelegrino.com.br/icons/social-midias/instagram.png">][instagram]
 
 <!-- Sites -->
 
