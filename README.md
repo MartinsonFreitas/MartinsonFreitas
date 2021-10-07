@@ -56,7 +56,7 @@
 [facebook]: https://www.facebook.com/ElPelegrino.br/
 [site]: https://elpelegrino.com.br/
 [twitter]: https://twitter.com/El_Pelegrino/
-[blogger]: https://elpelegrino.tumblr.com/
+[tumblr]: https://elpelegrino.tumblr.com/
 [instagram]: https://www.instagram.com/elpelegrino/
 
 <br>
