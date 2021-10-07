@@ -44,7 +44,7 @@
 
 [<img align="left" alt="twitter" width="30px" src="https://elpelegrino.com.br/icons/social-midias/twitter.png">][twitter]
 
-[<img align="left" alt="blogger" width="30px" src="https://elpelegrino.com.br/icons/social-midias/blogger.png">][tumblr]
+[<img align="left" alt="blogger" width="30px" src="https://elpelegrino.com.br/icons/social-midias/tumblr.png">][tumblr]
 
 [<img align="left" alt="instagram" width="30px" src="https://elpelegrino.com.br/icons/social-midias/instagram.png">][instagram]
 
