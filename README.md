@@ -6,7 +6,7 @@
 
 </p>
 
-<p align="justify">Estudo Tecnologia em Análises de Sistemas na FAETERJ em Quintino na cidade do Rio de Janeiro e este espaço está destinado ao compartilhamento dos trabalhos efetuados nas diversas matérias estudadas. Fique à vontade em navegar nos diversos repositórios aqui disponíveis, serão atualizados de acordo com nossa carga horária de estudos.</p>
+<p align="justify">Estudante de Engenharia Elétrica com ênfase em Sistemas e Computação na UERJ Maracanã e estudei Tecnologia em Análises de Sistemas na FAETERJ de 2019.2 até 2022.2, este espaço está destinado ao compartilhamento dos trabalhos efetuados nas diversas matérias estudadas. Fique à vontade em navegar nos diversos repositórios aqui disponíveis, serão atualizados de acordo com nossa carga horária de estudos.</p>
 <br>
 
 
