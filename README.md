@@ -1,18 +1,25 @@
 <p align="center">
 
-<h1>Hello world!</h1>
+<h1>Hello World!</h1>
 
 <h3 align="center"> Oi meu nome é Martinson Freitas :boy:</h3>
 
 </p>
 
-<p align="justify">Estudante de Engenharia Elétrica com ênfase em Sistemas e Computação na UERJ Maracanã e estudei Tecnologia em Análises de Sistemas na FAETERJ de 2019.2 até 2022.2, este espaço está destinado ao compartilhamento dos trabalhos efetuados nas diversas matérias estudadas. Fique à vontade em navegar nos diversos repositórios aqui disponíveis, serão atualizados de acordo com nossa carga horária de estudos.</p>
+
+<p align="justify">Atualmente faço Engenharia Elétrica com ênfase em Sistemas e Computação na Universidade do Estado do Rio de Janeiro, UERJ, onde ingressei em 2022-2 (pós pandemia). Antes, estudava Tecnologia em Desenvolvimento e Análises de Sistemas na Faculdade de TEcnologia do Estado do Rio de Janeiro, FAETERJ, de 2019.2 até 2022.2, onde tivemos muitos desafios de ensino e aprendizado, mas muito gratificantes. Além de ser graduado em Licenciatura Plena em Matemática pela Universidade Estadual do Ceará, tendo atuado muito pouco como professor, apenas um ano.
+</p>
+<p align="justify">
+Desde sempre me identifiquei com programação e desenvolvimento, estando em constante aprendizado desde 1996, onde se programava através do bloco de notas, passando por desenvolvimento Desktop com o uso do Delphi, passando a atuar mais no ambiente on-line com o uso das linguagens que todos conhecem, como: HTML5, CSS, Javascript, PHP e um pouco de Java, ASP, Linux, etc...
+</p>
+<p align="justify">
+Meu repositório no Github está destinado ao compartilhamento dos trabalhos efetuados nas matérias estudadas na FAETERJ e alguns projetos de desenvolvimento pessoal. Fique à vontade para navegar nos repositórios aqui disponíveis, serão atualizados de acordo com nossa carga horária de estudos e de vida.</p>
 <br>
 
 
 ## 💬 Sobre mim!
 
-- 🎓 Graduando em Licenciatura Plena em Matemática pela UECE.
+- 🎓 Graduado em Licenciatura Plena em Matemática pela UECE.
 - 🎓 Técnico em Informática.
 - 🎓 Técnico em Programação Delphi.
 - 💼 Trabalho voluntário em Assessoria ao Micro-Empreendedor.
