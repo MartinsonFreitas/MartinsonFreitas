@@ -17,9 +17,8 @@
 - 🎓 Técnico em Programação Delphi.
 - 💼 Trabalho voluntário em Assessoria ao Micro-Empreendedor.
 - 🚀 Estou sempre aprendendo algo novo relacionado a tecnologia.
-- 🌎 Adoro viajar! Alguns lugares: https://elpelegrino.com.br/caminho/
-- 📸 Fotógrafo amador... Tento! Ver galeria: https://www.flickr.com/photos/El_Pelegrino/
-
+- 🌎 Adoro viajar! Alguns lugares no meu [site].
+- 📸 Fotógrafo amador... Tento! Ver galeria no [Flickr].
 <br>
 
 
@@ -32,29 +31,32 @@
 
 ## Redes Sociais | Social Media
 
-[<img align="left" alt="linkedin" width="30px" src="https://elpelegrino.com.br/icons/social-midias/linkedin.png">][linkedin]
+[<img align="left" alt="linkedin" width="30px" src="https://elpelegrino.com.br/icons/social-midias/linkedin.png">][Linkedin]
 
-[<img align="left" alt="youtube" width="30px" src="https://elpelegrino.com.br/icons/social-midias/youtube.png">][youtube]
+[<img align="left" alt="youtube" width="30px" src="https://elpelegrino.com.br/icons/social-midias/youtube.png">][Youtube]
 
-[<img align="left" alt="flickr" width="30px" src="https://elpelegrino.com.br/icons/social-midias/flickr.png">][flickr]
+[<img align="left" alt="flickr" width="30px" src="https://elpelegrino.com.br/icons/social-midias/flickr.png">][Flickr]
 
-[<img align="left" alt="facebook" width="30px" src="https://elpelegrino.com.br/icons/social-midias/facebook.png">][facebook]
+[<img align="left" alt="facebook" width="30px" src="https://elpelegrino.com.br/icons/social-midias/facebook.png">][Facebook]
 
 [<img align="left" alt="site" width="30px" src="https://elpelegrino.com.br/icons/social-midias/www.png">][site]
 
-[<img align="left" alt="tumblr" width="30px" src="https://elpelegrino.com.br/icons/social-midias/tumblr.png">][tumblr]
+[<img align="left" alt="tumblr" width="30px" src="https://elpelegrino.com.br/icons/social-midias/tumblr.png">][Tumblr]
 
-[<img align="left" alt="instagram" width="30px" src="https://elpelegrino.com.br/icons/social-midias/instagram.png">][instagram]
+[<img align="left" alt="instagram" width="30px" src="https://elpelegrino.com.br/icons/social-midias/instagram.png">][Instagram]
+
+[<img align="left" alt="instagram" width="30px" src="https://elpelegrino.com.br/icons/social-midias/lattes.png">][Currículo_lattes]
 
 <!-- Sites -->
 
-[linkedin]: https://www.linkedin.com/in/martinson-freitas-340073263/
-[youtube]: https://www.youtube.com/user/ElPelegrinoComBr/
-[flickr]: https://www.flickr.com/photos/El_Pelegrino/
-[facebook]: https://www.facebook.com/ElPelegrino.br/
+[Linkedin]: https://www.linkedin.com/in/martinson-freitas-340073263/
+[Youtube]: https://www.youtube.com/user/ElPelegrinoComBr/
+[Flickr]: https://www.flickr.com/photos/El_Pelegrino/
+[Facebook]: https://www.facebook.com/ElPelegrino.br/
 [site]: https://elpelegrino.com.br/
-[tumblr]: https://elpelegrino.tumblr.com/
-[instagram]: https://www.instagram.com/elpelegrino/
+[Tumblr]: https://elpelegrino.tumblr.com/
+[Instagram]: https://www.instagram.com/elpelegrino/
+[Currículo_lattes]: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=F3364D8A9702C77E1A8C1D91829C2E2E#
 
 <br>
 <br>
