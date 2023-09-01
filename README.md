@@ -7,7 +7,7 @@
 </p>
 
 
-<p align="justify">Atualmente faço Engenharia Elétrica com ênfase em Sistemas e Computação na Universidade do Estado do Rio de Janeiro, UERJ, onde ingressei em 2022-2 (pós pandemia). Antes, estudava Tecnologia em Desenvolvimento e Análises de Sistemas na Faculdade de TEcnologia do Estado do Rio de Janeiro, FAETERJ, de 2019.2 até 2022.2, onde tivemos muitos desafios de ensino e aprendizado, mas muito gratificantes. Além de ser graduado em Licenciatura Plena em Matemática pela Universidade Estadual do Ceará, tendo atuado muito pouco como professor, apenas um ano.
+<p align="justify">Atualmente faço Engenharia Elétrica com ênfase em Sistemas e Computação na Universidade do Estado do Rio de Janeiro, UERJ, onde ingressei em 2022-2 (pós pandemia). Antes, estudava Tecnologia em Desenvolvimento e Análises de Sistemas na Faculdade de Tecnologia do Estado do Rio de Janeiro, FAETERJ, de 2019.2 até 2022.2, onde tivemos muitos desafios de ensino e aprendizado, mas muito gratificantes. Além de ser graduado em Licenciatura Plena em Matemática pela Universidade Estadual do Ceará, tendo atuado muito pouco como professor, apenas um ano.
 </p>
 <p align="justify">
 Desde sempre me identifiquei com programação e desenvolvimento, estando em constante aprendizado desde 1996, onde se programava através do bloco de notas, passando por desenvolvimento Desktop com o uso do Delphi, passando a atuar mais no ambiente on-line com o uso das linguagens que todos conhecem, como: HTML5, CSS, Javascript, PHP e um pouco de Java, ASP, Linux, etc...
