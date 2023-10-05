@@ -7,22 +7,30 @@
 </p>
 
 
-<p align="justify">Atualmente faço Engenharia Elétrica com ênfase em Sistemas e Computação na Universidade do Estado do Rio de Janeiro, UERJ, onde ingressei em 2022-2 (pós pandemia). Antes, estudava Tecnologia em Desenvolvimento e Análises de Sistemas na Faculdade de Tecnologia do Estado do Rio de Janeiro, FAETERJ, de 2019.2 até 2022.2, onde tivemos muitos desafios de ensino e aprendizado, mas muito gratificantes. Além de ser graduado em Licenciatura Plena em Matemática pela Universidade Estadual do Ceará, tendo atuado muito pouco como professor, apenas um ano.
+<p align="justify">Atualmente faço o terceiro período de Engenharia Elétrica com ênfase em Sistemas e Computação na Universidade do Estado do Rio de Janeiro, UERJ, onde ingressei em 2022-2 (pós pandemia), onde faço Iniciação Científica programando um pequeno robozinho autônomo Khepera IV.  Antes, estudei Tecnologia em Desenvolvimento e Análises de Sistemas na Faculdade de Tecnologia do Estado do Rio de Janeiro, FAETERJ, de 2019.2 até 2022.2, onde tive muitos desafios de ensino e aprendizado impostos pela pandemia, mas com ensino de alto nível e qualidade. Também sou graduado em Licenciatura Plena em Matemática pela Universidade Estadual do Ceará, tendo atuado muito pouco como professor, apenas um ano na rede de ensino público do Estado do Rio de Janeiro. Também dei aulas de informática numa escola particular e aulas de reforço na rede municipal.
 </p>
 <p align="justify">
-Desde sempre me identifiquei com programação e desenvolvimento, estando em constante aprendizado desde 1996, onde se programava através do bloco de notas, passando por desenvolvimento Desktop com o uso do Delphi, passando a atuar mais no ambiente on-line com o uso das linguagens que todos conhecem, como: HTML5, CSS, Javascript, PHP e um pouco de Java, ASP, Linux, etc...
+Sempre me identifiquei com programação e desenvolvimento, estando em constante aprendizado desde 1996, onde se programava através do bloco de notas, passando por desenvolvimento Desktop com o uso do Delphi. Comecei a atuar mais no ambiente on-line com o uso das linguagens que todos conhecem, como: HTML5, CSS, Javascript, PHP e um pouco de Java, ASP (muito pouco!!!), Linux, etc...
 </p>
 <p align="justify">
-Meu repositório no Github está destinado ao compartilhamento dos trabalhos efetuados nas matérias estudadas na FAETERJ e alguns projetos de desenvolvimento pessoal. Fique à vontade para navegar nos repositórios aqui disponíveis, serão atualizados de acordo com nossa carga horária de estudos e de vida.</p>
+Meu repositório no Github está destinado ao compartilhamento dos trabalhos efetuados nas matérias estudadas na FAETERJ, na UERJ e alguns projetos de desenvolvimento pessoal. Fique à vontade para navegar nos repositórios aqui disponíveis, serão atualizados de acordo com nossa carga horária de estudos e de vida.</p>
+</p>
+<p align="justify">
+Abraços e letś code!
+</p>
+
 <br>
 
 
 ## 💬 Sobre mim!
 
-- 🎓 Graduado em Licenciatura Plena em Matemática pela UECE.
+- 🎓 Estudante de Engenharia... - UERJ - (Working in progress!)
+- 🎓 Estudante de Análise de Sistemas... - FAETERJ - (Failed!)
+- 🎓 Graduado em Matemática - UECE - (Well done!).
 - 🎓 Técnico em Informática.
 - 🎓 Técnico em Programação Delphi.
 - 💼 Trabalho voluntário em Assessoria ao Micro-Empreendedor.
+- 💼 Trabalho voluntário na Pastoral da Solidariedade - SCSD.
 - 🚀 Estou sempre aprendendo algo novo relacionado a tecnologia.
 - 🌎 Adoro viajar! Alguns lugares no meu [site].
 - 📸 Fotógrafo amador... Tento! Ver galeria no [Flickr].
