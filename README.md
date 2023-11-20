@@ -31,7 +31,7 @@ Abraços e letś code!
 - 🎓 Técnico em Programação Delphi.
 - 💼 Trabalho voluntário em Assessoria ao Micro-Empreendedor.
 - 💼 Trabalho voluntário na Pastoral da Solidariedade - SCSD.
-- 🚀 Estou sempre aprendendo algo novo relacionado a tecnologia.
+- 🚀 Estou sempre aprendendo e me atualizando com cursos relacionados à tecnologia e informação.
 - 🌎 Adoro viajar! Alguns lugares no meu [site].
 - 📸 Fotógrafo amador... Tento! Ver galeria no [Flickr].
 <br>
