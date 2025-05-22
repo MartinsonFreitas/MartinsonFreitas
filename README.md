@@ -16,7 +16,7 @@ Sempre me identifiquei com programação e desenvolvimento, estando em constante
 Meu repositório no Github está destinado ao compartilhamento dos trabalhos efetuados nas matérias estudadas na FAETERJ, na UERJ e alguns projetos de desenvolvimento pessoal. Fique à vontade para navegar nos repositórios aqui disponíveis, serão atualizados de acordo com nossa carga horária de estudos e de vida.</p>
 </p>
 <p align="justify">
-Abraços e letś code!
+Abraços e let's code!
 </p>
 
 <br>
