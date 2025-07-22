@@ -68,7 +68,7 @@ Abraços e let's code!
 [Youtube]: https://www.youtube.com/user/ElPelegrinoComBr/
 [Flickr]: https://www.flickr.com/photos/El_Pelegrino/
 [Facebook]: https://www.facebook.com/ElPelegrino.br/
-[site]: https://elpelegrino.com.br/
+[site]: https://elpelegrino.com/
 [Tumblr]: https://elpelegrino.tumblr.com/
 [Instagram]: https://www.instagram.com/elpelegrino/
 [Currículo_lattes]: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=F3364D8A9702C77E1A8C1D91829C2E2E#
