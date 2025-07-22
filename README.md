@@ -46,21 +46,21 @@ Abraços e let's code!
 
 ## Redes Sociais | Social Media
 
-[<img align="left" alt="linkedin" width="30px" src="https://elpelegrino.com.br/icons/social-midias/linkedin.png">][Linkedin]
+[<img align="left" alt="linkedin" width="30px" src="https://elpelegrino.com/icons/social-midias/linkedin.png">][Linkedin]
 
-[<img align="left" alt="youtube" width="30px" src="https://elpelegrino.com.br/icons/social-midias/youtube.png">][Youtube]
+[<img align="left" alt="youtube" width="30px" src="https://elpelegrino.com/icons/social-midias/youtube.png">][Youtube]
 
-[<img align="left" alt="flickr" width="30px" src="https://elpelegrino.com.br/icons/social-midias/flickr.png">][Flickr]
+[<img align="left" alt="flickr" width="30px" src="https://elpelegrino.com/icons/social-midias/flickr.png">][Flickr]
 
-[<img align="left" alt="facebook" width="30px" src="https://elpelegrino.com.br/icons/social-midias/facebook.png">][Facebook]
+[<img align="left" alt="facebook" width="30px" src="https://elpelegrino.com/icons/social-midias/facebook.png">][Facebook]
 
-[<img align="left" alt="site" width="30px" src="https://elpelegrino.com.br/icons/social-midias/www.png">][site]
+[<img align="left" alt="site" width="30px" src="https://elpelegrino.com/icons/social-midias/www.png">][site]
 
-[<img align="left" alt="tumblr" width="30px" src="https://elpelegrino.com.br/icons/social-midias/tumblr.png">][Tumblr]
+[<img align="left" alt="tumblr" width="30px" src="https://elpelegrino.com/icons/social-midias/tumblr.png">][Tumblr]
 
-[<img align="left" alt="instagram" width="30px" src="https://elpelegrino.com.br/icons/social-midias/instagram.png">][Instagram]
+[<img align="left" alt="instagram" width="30px" src="https://elpelegrino.com/icons/social-midias/instagram.png">][Instagram]
 
-[<img align="left" alt="instagram" width="30px" src="https://elpelegrino.com.br/icons/social-midias/lattes.png">][Currículo_lattes]
+[<img align="left" alt="instagram" width="30px" src="https://elpelegrino.com/icons/social-midias/lattes.png">][Currículo_lattes]
 
 <!-- Sites -->
 
