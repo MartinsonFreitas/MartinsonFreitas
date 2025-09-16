@@ -7,13 +7,15 @@
 </p>
 
 
-<p align="justify">Atualmente faço o sexto período de Engenharia Elétrica com ênfase em Sistemas e Computação na Universidade do Estado do Rio de Janeiro, UERJ, onde ingressei em 2022-2 (pós pandemia), onde faço Iniciação Científica programando um pequeno robozinho autônomo Khepera IV.  Antes, estudei Tecnologia em Desenvolvimento e Análises de Sistemas na Faculdade de Tecnologia do Estado do Rio de Janeiro, FAETERJ, de 2019.2 até 2022.2, onde tive muitos desafios de ensino e aprendizado impostos pela pandemia, mas com ensino de alto nível e qualidade. Também sou graduado em Licenciatura Plena em Matemática pela Universidade Estadual do Ceará, tendo atuado muito pouco como professor, apenas um ano na rede de ensino público do Estado do Rio de Janeiro. Também dei aulas de informática numa escola particular e aulas de reforço na rede municipal.
+<p align="justify">Atualmente estou no sétimo período de Engenharia Elétrica com ênfase em Sistemas e Computação na Universidade do Estado do Rio de Janeiro, UERJ, onde ingressei em 2022-2 (pós pandemia). Participei de Projeto de Iniciação Científica programando um pequeno robozinho autônomo da marca suíça Khepera IV como bolsista CNPq, participei como bolsista no Projeto de Extensão em Desenvolvimento de Aplicativos com Desing Thinking e Inteligência Artificial do LAPEP (Laboratório de Pesquisas de Engenharia de Produção) dando apoio aos projetos desenvolvidos pelos alunos de Engenharia de Produção da UERJ e atualmente sou voluntário no Projeto de COGERE (Consumo Sustentável e Gestão de Resíduos) do Departamento de Engenharia Ambiental, onde desenvolvi o site do Projeto em WordPress.</p>
+  
+<p align="justify">Antes da UERJ, estudei Tecnologia em Desenvolvimento e Análises de Sistemas na Faculdade de Tecnologia do Estado do Rio de Janeiro, FAETERJ, de 2019.2 até 2022.2, onde tive muitos desafios de ensino e aprendizado impostos pela pandemia, mas com ensino de alto nível e qualidade. Também sou graduado em Licenciatura Plena em Matemática pela Universidade Estadual do Ceará, tendo atuado muito pouco como professor, apenas um ano na rede de ensino público do Estado do Rio de Janeiro. Também dei aulas de informática numa escola particular e aulas de reforço na rede municipal.
 </p>
 <p align="justify">
 Sempre me identifiquei com programação e desenvolvimento, estando em constante aprendizado desde 1996, onde se programava através do bloco de notas, passando por desenvolvimento Desktop com o uso do Delphi. Comecei a atuar mais no ambiente on-line com o uso das linguagens que todos conhecem, como: HTML5, CSS, Javascript, PHP e um pouco de Java, ASP (muito pouco!!!), Linux, etc...
 </p>
 <p align="justify">
-Meu repositório no Github está destinado ao compartilhamento dos trabalhos efetuados nas matérias estudadas na FAETERJ, na UERJ e alguns projetos de desenvolvimento pessoal. Fique à vontade para navegar nos repositórios aqui disponíveis, serão atualizados de acordo com nossa carga horária de estudos e de vida.</p>
+Esse repositório está destinado ao compartilhamento dos trabalhos efetuados nas matérias estudadas na FAETERJ, na UERJ e alguns projetos de desenvolvimento pessoal. Fiquem à vontade para navegar nos repositórios aqui disponíveis, serão atualizados de acordo com nossa carga horária de estudos e de vida.</p>
 </p>
 <p align="justify">
 Abraços e let's code!
