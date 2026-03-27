@@ -7,7 +7,7 @@
 </p>
 
 
-<p align="justify">Atualmente estou no sétimo período de Engenharia Elétrica com ênfase em Sistemas e Computação na Universidade do Estado do Rio de Janeiro, UERJ, onde ingressei em 2022-2 (pós pandemia). Participei de Projeto de Iniciação Científica programando um pequeno robozinho autônomo da marca Suíça Khepera IV como bolsista CNPq, participei como bolsista no Projeto de Extensão em Desenvolvimento de Aplicativos com Desing Thinking e Inteligência Artificial do LAPEP (Laboratório de Pesquisas de Engenharia de Produção) dando apoio aos projetos desenvolvidos pelos alunos de Engenharia de Produção da UERJ e também fui bolsista no Projeto [COGERE] - Consumo Sustentável e Gestão de Resíduos, do Departamento de Engenharia Ambiental (DESMA/UERJ), onde desenvolvi o site do Projeto em WordPress.</p>
+<p align="justify">Atualmente estou no sétimo período de Engenharia Elétrica com ênfase em Sistemas e Computação na Universidade do Estado do Rio de Janeiro, UERJ, onde ingressei em 2022-2 (pós pandemia). Participei de Projeto de Iniciação Científica programando um pequeno robozinho autônomo da marca Suíça Khepera IV como bolsista CNPq, participei como bolsista no Projeto de Extensão em Desenvolvimento de Aplicativos com Desing Thinking e Inteligência Artificial do LAPEP (Laboratório de Pesquisas de Engenharia de Produção) dando apoio aos projetos desenvolvidos pelos alunos de Engenharia de Produção da UERJ e também fui bolsista no Projeto [Cogere] - Consumo Sustentável e Gestão de Resíduos, do Departamento de Engenharia Ambiental (DESMA/UERJ), onde desenvolvi o site do Projeto em WordPress.</p>
   
 <p align="justify">Antes da UERJ, estudei Tecnologia em Desenvolvimento e Análises de Sistemas na Faculdade de Tecnologia do Estado do Rio de Janeiro, FAETERJ, de 2019.2 até 2022.2, onde tive muitos desafios de ensino e aprendizado impostos pela pandemia, mas com ensino de alto nível e qualidade. Também sou graduado em Licenciatura Plena em Matemática pela Universidade Estadual do Ceará, tendo atuado muito pouco como professor, apenas um ano na rede de ensino público do Estado do Rio de Janeiro. Também dei aulas de informática numa escola particular e aulas de reforço na rede municipal.
 </p>
@@ -48,21 +48,21 @@ Abraços e let's code!
 
 ## Redes Sociais | Social Media
 
-[<img align="left" alt="linkedin" width="30px" src="https://elpelegrino.com/icons/social-midias/linkedin.png">][Linkedin]
+[<img align="left" alt="linkedin" width="30px" src="https://el-caminodesantiago.com.br/icons/social-midias/linkedin.png">][Linkedin]
 
-[<img align="left" alt="youtube" width="30px" src="https://elpelegrino.com/icons/social-midias/youtube.png">][Youtube]
+[<img align="left" alt="youtube" width="30px" src="https://el-caminodesantiago.com.br/icons/social-midias/youtube.png">][Youtube]
 
-[<img align="left" alt="flickr" width="30px" src="https://elpelegrino.com/icons/social-midias/flickr.png">][Flickr]
+[<img align="left" alt="flickr" width="30px" src="https://el-caminodesantiago.com.br/icons/social-midias/flickr.png">][Flickr]
 
-[<img align="left" alt="facebook" width="30px" src="https://elpelegrino.com/icons/social-midias/facebook.png">][Facebook]
+[<img align="left" alt="facebook" width="30px" src="https://el-caminodesantiago.com.br/icons/social-midias/facebook.png">][Facebook]
 
-[<img align="left" alt="site" width="30px" src="https://elpelegrino.com/icons/social-midias/www.png">][site]
+[<img align="left" alt="site" width="30px" src="https://el-caminodesantiago.com.br/icons/social-midias/www.png">][site]
 
-[<img align="left" alt="tumblr" width="30px" src="https://elpelegrino.com/icons/social-midias/tumblr.png">][Tumblr]
+[<img align="left" alt="tumblr" width="30px" src="https://el-caminodesantiago.com.br/icons/social-midias/tumblr.png">][Tumblr]
 
-[<img align="left" alt="instagram" width="30px" src="https://elpelegrino.com/icons/social-midias/instagram.png">][Instagram]
+[<img align="left" alt="instagram" width="30px" src="https://el-caminodesantiago.com.br/icons/social-midias/instagram.png">][Instagram]
 
-[<img align="left" alt="instagram" width="30px" src="https://elpelegrino.com/icons/social-midias/lattes.png">][Currículo_lattes]
+[<img align="left" alt="instagram" width="30px" src="https://el-caminodesantiago.com.br/icons/social-midias/lattes.png">][Currículo_lattes]
 
 <!-- Sites -->
 
@@ -71,7 +71,7 @@ Abraços e let's code!
 [Flickr]: https://www.flickr.com/photos/El_Pelegrino/
 [Facebook]: https://www.facebook.com/ElPelegrino.br/
 [site]: https://www.el-caminodesantiago.com.br/
-[COGERE]: https://www.cogere.uerj.br/
+[Cogere]: https://www.cogere.uerj.br/
 [Tumblr]: https://elpelegrino.tumblr.com/
 [Instagram]: https://www.instagram.com/elpelegrino/
 [Currículo_lattes]: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=F3364D8A9702C77E1A8C1D91829C2E2E#
