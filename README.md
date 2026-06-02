@@ -43,12 +43,6 @@ Abraços e let's code!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=MartinsonFreitas&&show_icons=true&theme=radical)](https://github.com/MartinsonFreitas/github-readme-stats)
 
-### Minhas Estatísticas do GitHub
-![Estatísticas do GitHub](https://vercel.app)
-
-### Linguagens mais utilizadas
-![Top Linguagens](https://vercel.app)
-
 <br>
 <br>
 
