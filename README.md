@@ -41,7 +41,7 @@ Abraços e let's code!
 
 ## Estatísticas | Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsonFreitas&langs_count=30)](https://github.com/MartinsonFreitas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=MartinsonFreitas&&show_icons=true&theme=radical)](https://github.com/MartinsonFreitas/github-readme-stats)
 
 <br>
 <br>
