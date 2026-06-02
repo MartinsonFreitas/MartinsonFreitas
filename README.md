@@ -38,8 +38,6 @@ Abraços e let's code!
 - 📸 Fotógrafo amador... Tento! Ver galeria no [Flickr].
 <br>
 
-![Estatísticas do GitHub](https://shion.dev)
-
 ## Estatísticas | Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=MartinsonFreitas&&show_icons=true&theme=radical)](https://github.com/MartinsonFreitas/github-readme-stats)
 
