@@ -38,14 +38,14 @@ Abraços e let's code!
 - 📸 Fotógrafo amador... Tento! Ver galeria no [Flickr].
 <br>
 
-## Estatísticas | Statistics
+## Estatísticas
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MartinsonFreitas&layout=compact&langs_count=7&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MartinsonFreitas&layout=compact&langs_count=7&theme=dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MartinsonFreitas&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=MartinsonFreitas&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)
 <br>
 <br>
 
-## Redes Sociais | Social Media
+## Redes Sociais
 
 [<img align="left" alt="linkedin" width="30px" src="https://el-caminodesantiago.com.br/icons/social-midias/linkedin.png">][Linkedin]
 
