@@ -39,7 +39,7 @@ Abraços e let's code!
 <br>
 
 ## Estatísticas | Statistics
-![Top Langs](https://github-stats-extended.vercel.app/api?username=MartinsonFreitas&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MartinsonFreitas&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=MartinsonFreitas&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MartinsonFreitas&layout=donut-vertical&langs_count=8)](https://github-stats-extended.vercel.app/api/top-langs?username=MartinsonFreitas&layout=donut-vertical&langs_count=8)
 <br>
 <br>
