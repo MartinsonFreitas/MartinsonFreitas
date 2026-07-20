@@ -8,7 +8,7 @@
   <!--Title-->
   <a href="https://github.com/MartinsonFreitas">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=400&color=a8ce00&size=35&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B+;+I'm+Martisnon+Freitas!" 
+      src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=400&color=a8ce00&size=35&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B+;+I'm+Martinson+Freitas!" 
       alt="Karem Saad" 
     /></a>
   <!--Codding gif-->
