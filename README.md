@@ -2,6 +2,23 @@
 
 <h1>Hello World!</h1>
 
+<!--Intro-->
+<p align="center">
+  <!--Github gif-->
+  <img width="150px" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Logo" />
+  <!--Title-->
+  <a href="https://github.com/d0ugcarv">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=400&color=a8ce00&size=35&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B+;+I'm+Douglas+Carvalho!" 
+      alt="Karem Saad" 
+    /></a>
+  <!--Codding gif-->
+  <img 
+    width="150px"
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNha2U1bjZvMmQxNmx2MXprbjlkbHA5OWVtMXZvdWFrZHEzZDZhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
+  />
+</p>
+
 <h3 align="center"> Oi meu nome é Martinho Freitas :boy:</h3>
 
 </p>
@@ -72,25 +89,7 @@ Abraços e let's code!
 <br>
 <br>
 
-<!--Intro-->
-<p align="center">
-  <!--Github gif-->
-  <img 
-    width="150px" 
-    src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Logo"
-  />
-  <!--Title-->
-  <a href="https://github.com/d0ugcarv">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=400&color=a8ce00&size=35&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B+;+I'm+Douglas+Carvalho!" 
-      alt="Karem Saad" 
-    /></a>
-  <!--Codding gif-->
-  <img 
-    width="150px"
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNha2U1bjZvMmQxNmx2MXprbjlkbHA5OWVtMXZvdWFrZHEzZDZhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
-  />
-</p>
+
 
 <!--Badges-->
 <p align="center">
